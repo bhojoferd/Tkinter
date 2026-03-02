@@ -1,0 +1,4 @@
+# Activity #4 requirements
+# If your Python is 3.9+ you can use stdlib zoneinfo and may not need any external packages.
+# If zoneinfo is not available (older Python), install pytz:
+pytz>=2020.1
